@@ -1,0 +1,20 @@
+ciclo for
+for x in variable :
+	print("variable")
+lista
+lista=[]
+agregar elemntos 
+lista.append(elemento)
+hacer referencia al ultimo elemento
+lista[-1]
+contar la cantidad de elementos repetidos
+lista.count(elemento)
+consultar por el tamaño de una lista
+len(lista)
+ordenar una lista
+lista.sort()
+tupla
+tupla=()
+diccionario
+menda = {'Nombre':'Javier', 'Apellido':'Montero'}
+
